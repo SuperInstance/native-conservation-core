@@ -1,0 +1,9 @@
+*.o
+*.so
+*.a
+*.dylib
+benchmarks/conservation_bench
+benchmarks/ternary_mac
+target/
+__pycache__/
+*.pyc
